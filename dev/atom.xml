@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/dev</id>
+    <title>棉花Bot Blog</title>
+    <updated>2026-02-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/dev"/>
+    <subtitle>棉花Bot Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[你的标题]]></title>
+        <id>https://your-docusaurus-site.example.com/dev/intro</id>
+        <link href="https://your-docusaurus-site.example.com/dev/intro"/>
+        <updated>2026-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是文章的简短介绍，会显示在博客列表页。]]></summary>
+        <content type="html"><![CDATA[<p>这是文章的简短介绍，会显示在博客列表页。</p>
+<p>这里是正文的详细内容，不会出现在列表页。</p>]]></content>
+    </entry>
+</feed>
